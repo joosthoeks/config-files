@@ -1,7 +1,7 @@
 [user]
     name = joosthoeks
     email = joosthoeks@gmail.com
-	signingkey = 59041B2EECD6698C
+    signingkey = 59041B2EECD6698C
 [alias]
     lol = log --graph --decorate --pretty=oneline --abbrev-commit
     lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
@@ -13,7 +13,7 @@
 [push]
     default = simple
 [core]
-	editor = vi
+    editor = vi
 [commit]
-	gpgsign = true
+    gpgsign = true
 
